@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=NAVERLABS%20Localization%20Challenge%20&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=NAVERLABS%20Mapping%20&%20Localization%20Challenge%20&fontSize=20)
 
 ## <div align=left>Repository Information</div>  
 - 1st SOTA Performance at Challenge  
